@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a6ccf1c-8cd4-4560-af4b-71c8315eb9c4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1eofsxwKsIAljozr55XymPDuTln" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a6ccf1c-8cd4-4560-af4b-71c8315eb9c4" name="Default Changelist" comment="" />
+      <created>1594993076839</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594993076839</updated>
+      <workItem from="1594993080496" duration="177000" />
+      <workItem from="1595051113453" duration="508000" />
+      <workItem from="1595252421447" duration="1572000" />
+      <workItem from="1595436347397" duration="7412000" />
+      <workItem from="1595871874348" duration="2006000" />
+      <workItem from="1596001504359" duration="2853000" />
+      <workItem from="1596088690524" duration="7546000" />
+      <workItem from="1596175649020" duration="7116000" />
+      <workItem from="1596221913617" duration="2707000" />
+      <workItem from="1596433855208" duration="2159000" />
+      <workItem from="1596608021290" duration="599000" />
+      <workItem from="1596628971066" duration="2448000" />
+      <workItem from="1596780606198" duration="4051000" />
+      <workItem from="1596912212365" duration="309000" />
+      <workItem from="1596994780796" duration="4827000" />
+      <workItem from="1597038146231" duration="6499000" />
+      <workItem from="1597081591119" duration="5671000" />
+      <workItem from="1597473940009" duration="350000" />
+      <workItem from="1597474326669" duration="6096000" />
+      <workItem from="1616098261294" duration="79000" />
+      <workItem from="1618897889404" duration="66000" />
+      <workItem from="1619112152683" duration="77000" />
+      <workItem from="1619112289675" duration="313000" />
+      <workItem from="1625383158561" duration="603000" />
+      <workItem from="1627978513260" duration="214000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="122" width="424" height="479" key="FileChooserDialogImpl" timestamp="1596001715540">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="466" y="122" width="424" height="479" key="FileChooserDialogImpl/0.0.1366.731@0.0.1366.731" timestamp="1596001715540" />
+    <state x="501" y="291" width="354" height="147" key="NewPhpFileDialog" timestamp="1597478067305">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="501" y="291" width="354" height="147" key="NewPhpFileDialog/0.0.1366.731@0.0.1366.731" timestamp="1597478067305" />
+    <state x="347" y="160" key="run.anything.popup" timestamp="1597479987902">
+      <screen x="0" y="0" width="1366" height="731" />
+    </state>
+    <state x="347" y="160" key="run.anything.popup/0.0.1366.731@0.0.1366.731" timestamp="1597479987902" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/expenses.php</url>
+          <line>36</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
